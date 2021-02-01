@@ -15,6 +15,7 @@ cap.set(10, 150)
 old = [0, 0]
 cursor=0
 drag=0
+NGD=22
 rightclick=0
 leftdouble=0
 oldt = datetime.strptime('2015-01-01 01:00:00', '%Y-%m-%d %H:%M:%S')
